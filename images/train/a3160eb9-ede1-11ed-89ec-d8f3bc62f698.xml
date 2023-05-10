@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nim</folder>
+	<filename>a3160eb9-ede1-11ed-89ec-d8f3bc62f698.jpg</filename>
+	<path>D:\Projects\HandNumberRecognizer\images\RAW\Newfolder\nim\a3160eb9-ede1-11ed-89ec-d8f3bc62f698.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Three</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>165</ymin>
+			<xmax>212</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

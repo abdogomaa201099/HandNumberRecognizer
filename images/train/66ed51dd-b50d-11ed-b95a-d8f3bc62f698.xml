@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>66ed51dd-b50d-11ed-b95a-d8f3bc62f698.jpg</filename>
+	<path>D:\Projects\HandNumberRecognizer\images\RAW\New folder\66ed51dd-b50d-11ed-b95a-d8f3bc62f698.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Five</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>369</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>
